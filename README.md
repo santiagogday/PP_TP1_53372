@@ -18,10 +18,9 @@ A partir del código desarrollado en el **Ejercicio 3**, se implementan los sigu
   * 3 estudiantes.
   * 1 evento.
   * 1 sala.
-  * 2 actividades asociadas al evento (una **Charla** y un **Taller**).
-* **Inscripciones:**
-  * 2 estudiantes inscritos en la **Charla**.
-  * 2 estudiantes inscritos en el **Taller**.
+  * 2 actividades asociadas al evento Charla y un Taller.
+  * 2 estudiantes inscritos en la Charla.
+  * 2 estudiantes inscritos en el Taller.
 
 Respecto a eso, el mapa de memoria de ejecucion que pude desarrollar es el siguiente:
 ![Mapa de memoria ejercicio 4](Mapa%20de%20memoria%20ejercicio%204.png)
