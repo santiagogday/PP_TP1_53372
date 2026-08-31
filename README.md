@@ -1,8 +1,8 @@
 ## Descripción del Trabajo Práctico
 
-El objetivo del proyecto es implementar un sistema en Java para gestionar eventos universitarios (charlas, talleres, jornadas), administrando sus actividades y la inscripción de estudiantes.
+El objetivo del proyecto es implementar un sistema en Java para gestionar eventos universitarios (charlas y talleres), administrando sus actividades y la inscripción de estudiantes.
 
-A lo largo del trabajo se aplican los conceptos fundamentales de la Programación Orientada a Objetos:
+Se aplican los conceptos fundamentales de la Programación Orientada a Objetos:
 
 * **Encapsulamiento y constructores:** Manejo de modificadores de acceso, inicialización de atributos y uso de constructor por copia.
 * **Relaciones entre clases:**
