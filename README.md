@@ -23,7 +23,7 @@ Mediante el codigo que desarrollamos en el ejercicio 3 se nos pidio que:
 *Se inscriben 2 estudiante en el Taller.
 
 Respecto a eso, el mapa de memoria de ejecucion que pude desarrollar es el siguiente:
-![Captura de pantalla](Mapa_de_memoria_ejercicio_4.png)
+![Mapa de memoria ejercicio 4](Mapa%20de%20memoria%20ejercicio%204.png)
 
 
 
