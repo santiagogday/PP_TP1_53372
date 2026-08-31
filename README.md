@@ -25,5 +25,7 @@ A partir del código desarrollado en el **Ejercicio 3**, se implementan los sigu
 Respecto a eso, el mapa de memoria de ejecucion que pude desarrollar es el siguiente:
 ![Mapa de memoria ejercicio 4](Mapa%20de%20memoria%20ejercicio%204.png)
 
+La salida por consola de la ejecucion del programa del ejercicio 4 es:
 
+![Salida por consola](Ejecucion%20de%20programa.png)
 
