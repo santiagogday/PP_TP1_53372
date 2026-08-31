@@ -15,7 +15,6 @@ Se aplican los conceptos fundamentales de la Programación Orientada a Objetos:
 ### Ejercicio 4
 
 Para la resolucion del ejercicio 4 se debe implementar en el ejercicio 3:
-* **Creación de entidades:**
   * 3 estudiantes.
   * 1 evento.
   * 1 sala.
@@ -23,7 +22,7 @@ Para la resolucion del ejercicio 4 se debe implementar en el ejercicio 3:
   * 2 estudiantes inscritos en la Charla.
   * 2 estudiantes inscritos en el Taller.
  
-###Mapa de memoria y salida consola
+### Mapa de memoria y salida consola
 
 Respecto a eso, el mapa de memoria de ejecucion que pude desarrollar es el siguiente:
 ![Mapa de memoria ejercicio 4](Mapa%20de%20memoria%20ejercicio%204.png)
