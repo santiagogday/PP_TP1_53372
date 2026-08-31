@@ -12,8 +12,9 @@ Se aplican los conceptos fundamentales de la Programación Orientada a Objetos:
 * **Herencia y Polimorfismo:** Implementación de una clase abstracta `Actividad` y sus subclases `Charla` y `Taller`, sobrescribiendo métodos para calcular costos y mostrando datos de forma polimórfica.
 * **Uso de modificadores `final`:** atributos y metodos constantes.
 
+### Ejercicio 4
 
-A partir del código desarrollado en el **Ejercicio 3**, se implementan los siguientes pasos:
+Para la resolucion del ejercicio 4 se debe implementar en el ejercicio 3:
 * **Creación de entidades:**
   * 3 estudiantes.
   * 1 evento.
@@ -21,6 +22,8 @@ A partir del código desarrollado en el **Ejercicio 3**, se implementan los sigu
   * 2 actividades asociadas al evento Charla y un Taller.
   * 2 estudiantes inscritos en la Charla.
   * 2 estudiantes inscritos en el Taller.
+ 
+###Mapa de memoria y salida consola
 
 Respecto a eso, el mapa de memoria de ejecucion que pude desarrollar es el siguiente:
 ![Mapa de memoria ejercicio 4](Mapa%20de%20memoria%20ejercicio%204.png)
