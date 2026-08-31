@@ -13,14 +13,15 @@ Se aplican los conceptos fundamentales de la Programación Orientada a Objetos:
 * **Uso de modificadores `final`:** atributos y metodos constantes.
 
 
-### Mapa de memoria ejercicio 4
-Mediante el codigo que desarrollamos en el ejercicio 3 se nos pidio que:
-*Se crean 3 estudiantes.
-*Se crea 1 evento.
-*Se crea 1 sala.
-*Se crean 2 actividades para el evento: una Charla y un Taller.
-*Se inscriben 2 estudiantes en la Charla.
-*Se inscriben 2 estudiante en el Taller.
+A partir del código desarrollado en el **Ejercicio 3**, se implementan los siguientes pasos:
+* **Creación de entidades:**
+  * 3 estudiantes.
+  * 1 evento.
+  * 1 sala.
+  * 2 actividades asociadas al evento (una **Charla** y un **Taller**).
+* **Inscripciones:**
+  * 2 estudiantes inscritos en la **Charla**.
+  * 2 estudiantes inscritos en el **Taller**.
 
 Respecto a eso, el mapa de memoria de ejecucion que pude desarrollar es el siguiente:
 ![Mapa de memoria ejercicio 4](Mapa%20de%20memoria%20ejercicio%204.png)
